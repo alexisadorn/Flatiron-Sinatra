@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sinatra MVC</title>
+  </head>
+
+  <body>
+    <h1>Index</h1>
+    <p> I love programming </p>
+  </body>
+</html>

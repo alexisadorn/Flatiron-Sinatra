@@ -1,0 +1,9 @@
+<h1> Your Text Analysis </h1>
+
+<h2>Number of Words:</h2><%= "#{@analyzed_text.count_of_words}" %>
+
+<h2>Vowels:</h2><%= "#{@analyzed_text.count_of_vowels}" %>
+
+<h2>Consonants:</h2><%= "#{@analyzed_text.count_of_consonants}" %>
+
+<h2>Most Common Letter: <%= "#{@analyzed_text.most_used_letter[0].upcase}" %>, used <%= "#{@analyzed_text.most_used_letter[1]}" %> times</h2>

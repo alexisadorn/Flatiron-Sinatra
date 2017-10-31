@@ -1,0 +1,7 @@
+tags:
+  - sinatra
+  - orm
+  - activerecord
+languages:
+  - ruby
+resources: 2

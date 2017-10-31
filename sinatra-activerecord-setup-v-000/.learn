@@ -1,0 +1,7 @@
+tags:
+  - sinatra
+  - activerecord
+  - migrations
+  - sqlite3
+languages:
+  - ruby
